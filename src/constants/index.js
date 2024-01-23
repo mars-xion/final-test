@@ -193,7 +193,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA1",
+        title: "LAO1",
         position: "User interaction @analysis @advice",
         period: "Oct 2016 - May 2018",
         details: [
@@ -204,7 +204,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA2",
+        title: "LO2",
         position: "User interaction @execution @validation)",
         period: "Oct 2018 - present",
         details: [
@@ -215,7 +215,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA3",
+        title: "LO3",
         position: "Software design and realisation",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -225,7 +225,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA4",
+        title: "LO4",
         position: "Future-oriented organisation",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -235,7 +235,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA5",
+        title: "LO5",
         position: "Investigative problem solving",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -246,7 +246,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA6",
+        title: "LO6",
         position: "Personal leadership",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -256,7 +256,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LA7",
+        title: "LO7",
         position: "Goal-oriented interaction",
         period: "Mar 2016 - Oct 2016",
         details: [
