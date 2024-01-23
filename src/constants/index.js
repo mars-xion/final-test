@@ -186,8 +186,8 @@ const LAData = {
         position: "All Projects",
         period: "Oct 2018 - present",
         details: [
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dignissim fringilla dui ac mattis.",
-          "Donec in sodales eros. Nulla fermentum, ante in venenatis pellentesque, justo odio viverra lorem, varius posuere erat tortor et magna.",
+          "",
+          "",
         ],
       },
     },
