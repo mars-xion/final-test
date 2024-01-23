@@ -94,14 +94,15 @@ export const LAData = {
 };
 
 export const LAprojects = [
+  //Portfolio
   {
     position: "User interaction @analysis @advice",
-    delivearlablename: "Design trends and principles in 2023",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Design Trend 2023 DPS",
+    image: "",
     tags: [
       { name: "Empathize", color: designThinkingMethod },
       {
-        name: "(Literature Study, Trend Analysis, Design Pattern Search)",
+        name: "Design Pattern Search",
         color: TypeOfDelivary,
       },
       { name: "Portfolio", color: projectCatogrie },
@@ -109,35 +110,99 @@ export const LAprojects = [
   },
   {
     position: "User interaction @analysis @advice",
-    delivearlablename: "Website selection process for portfolio testing",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Design Trend 2023 LS",
+    image: "",
+    tags: [
+      { name: "Empathize", color: designThinkingMethod },
+      {
+        name: "Literature Study",
+        color: TypeOfDelivary,
+      },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @analysis @advice",
+    delivearlablename: "Design Trend 2023 TA",
+    image: "",
+    tags: [
+      { name: "Empathize", color: designThinkingMethod },
+      {
+        name: "Trend Analysis",
+        color: TypeOfDelivary,
+      },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @analysis @advice",
+    delivearlablename: "Best Testing Method",
+    image: "",
+    tags: [
+      { name: "Ideate", color: designThinkingMethod },
+      {
+        name: "Literature Study",
+        color: TypeOfDelivary,
+      },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @analysis @advice",
+    delivearlablename: "Website Selection Process",
+    image: "",
+
+    tags: [
+      { name: "Test", color: designThinkingMethod },
+      { name: "Usability Testing", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @analysis @advice",
+    delivearlablename: "Diffrent Types of Content",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
-      { name: "Document Analysis, Product Review", color: TypeOfDelivary },
+      { name: "Literature Study", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Website contribution to personal brand",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
-      { name: "Literature Study, Concept", color: TypeOfDelivary },
+      { name: "Literature Study", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Requirement list document",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Prototype", color: designThinkingMethod },
       {
-        name: "Literature study, Benchmarking, Requirement list, Moscow table",
+        name: "Literature study, Benchmarking, Requirement list",
+        color: TypeOfDelivary,
+      },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @analysis @advice",
+    delivearlablename: "Challenges Faced by Programmers",
+    image: "",
+
+    tags: [
+      { name: "Define", color: designThinkingMethod },
+      {
+        name: "Literature study",
         color: TypeOfDelivary,
       },
       { name: "Portfolio", color: projectCatogrie },
@@ -146,19 +211,20 @@ export const LAprojects = [
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Mood Board",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Ideate", color: designThinkingMethod },
       { name: "Mood Board", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
+  //Journalist platfrom
   {
     position: "User interaction @analysis @advice",
     delivearlablename:
       "The journalist Role, Values, Types and Challenges in modern reporting",
-    image: "/src/assets/carrent.png",
+    image: "",
     tags: [
       { name: "Define", color: designThinkingMethod },
       { name: "Literature Study", color: TypeOfDelivary },
@@ -168,40 +234,40 @@ export const LAprojects = [
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "User requirements",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
-      { name: "Literature Study", color: TypeOfDelivary },
+      { name: "Requirment List", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "User stories",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
-      { name: "Literature Study", color: TypeOfDelivary },
+      { name: "Ideate", color: designThinkingMethod },
+      { name: "User stories", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Analysis of Design Choices for Competitors",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
-      { name: "Literature Study", color: TypeOfDelivary },
+      { name: "Prototype", color: designThinkingMethod },
+      { name: "Document Analysis", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "The User Guide",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Empathize", color: designThinkingMethod },
@@ -212,7 +278,7 @@ export const LAprojects = [
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Brainstorming",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
@@ -222,22 +288,23 @@ export const LAprojects = [
   },
   {
     position: "User interaction @analysis @advice",
-    delivearlablename: "Prepaid questions for the software team",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Prepared questions for the software team",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
-      { name: "Qouestions", color: TypeOfDelivary },
+      { name: "Questions", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
+  //Internationl week
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Took pictures and videos",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Prototype", color: designThinkingMethod },
       { name: "Media", color: TypeOfDelivary },
       { name: "International week", color: projectCatogrie },
     ],
@@ -245,19 +312,19 @@ export const LAprojects = [
   {
     position: "User interaction @analysis @advice",
     delivearlablename: "Summary of day 1",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Empathize", color: designThinkingMethod },
+      { name: "Ideate", color: designThinkingMethod },
       { name: "Summary", color: TypeOfDelivary },
       { name: "International week", color: projectCatogrie },
     ],
   },
-
+  //portfolio
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Usability Test",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
@@ -267,30 +334,19 @@ export const LAprojects = [
   },
   {
     position: "User interaction @execution @Validation",
-    delivearlablename: "Results of Usability Testing",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Brand Guide",
+    image: "",
 
     tags: [
       { name: "Prototype", color: designThinkingMethod },
-      { name: "Document", color: TypeOfDelivary },
-      { name: "Portfolio", color: projectCatogrie },
-    ],
-  },
-  {
-    position: "User interaction @execution @Validation",
-    delivearlablename: "Brand guide",
-    image: "/src/assets/carrent.png",
-
-    tags: [
-      { name: "Test", color: designThinkingMethod },
-      { name: "Brand guide", color: TypeOfDelivary },
+      { name: "Brand Guide", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Prototype",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Empathize", color: designThinkingMethod },
@@ -298,14 +354,36 @@ export const LAprojects = [
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
+  {
+    position: "User interaction @execution @Validation",
+    delivearlablename: "Usability Testing Final",
+    image: "",
 
+    tags: [
+      { name: "Test", color: designThinkingMethod },
+      { name: "Usability Testing", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "User interaction @execution @Validation",
+    delivearlablename: "Finding Document",
+    image: "",
+
+    tags: [
+      { name: "Define", color: designThinkingMethod },
+      { name: "Document", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  //Journalist platfrom
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Persona",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Persona", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
@@ -313,10 +391,10 @@ export const LAprojects = [
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Interview questions for Tom editor journalist chef",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
@@ -324,31 +402,31 @@ export const LAprojects = [
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Results of Usability Test",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
+  //Internationl week
   {
     position: "User interaction @execution @Validation",
     delivearlablename: "Video recording of team members",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
+      { name: "Prototype", color: designThinkingMethod },
       { name: "Media", color: TypeOfDelivary },
       { name: "International week:", color: projectCatogrie },
     ],
   },
-
+  //portfolio
   {
     position: "Software design and realisation",
     delivearlablename: "Sketches, Wireframes",
-    image: "/src/assets/carrent.png",
-
+    image: "",
     tags: [
       { name: "Prototype", color: designThinkingMethod },
       { name: "Sketches, Wireframes", color: TypeOfDelivary },
@@ -358,10 +436,10 @@ export const LAprojects = [
   {
     position: "Software design and realisation",
     delivearlablename: "Mock-ups",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Prototype", color: designThinkingMethod },
       { name: "Mock-ups", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
@@ -369,10 +447,10 @@ export const LAprojects = [
   {
     position: "Software design and realisation",
     delivearlablename: "Prototype",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Empathize", color: designThinkingMethod },
+      { name: "Prototype", color: designThinkingMethod },
       { name: "Prototype", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
@@ -380,10 +458,10 @@ export const LAprojects = [
   {
     position: "Software design and realisation",
     delivearlablename: "GitHub repo",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Data storing", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
@@ -391,7 +469,7 @@ export const LAprojects = [
   {
     position: "Software design and realisation",
     delivearlablename: "C4 model",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
@@ -401,119 +479,153 @@ export const LAprojects = [
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "Sketches ",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Codes for C4 model",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
+      { name: "Document", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "Software design and realisation",
+    delivearlablename: "Coding Document",
+    image: "",
+
+    tags: [
+      { name: "", color: designThinkingMethod },
+      { name: "Document", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  //Journalist platfrom
+  {
+    position: "Software design and realisation",
+    delivearlablename: "Sketches ",
+    image: "",
+
+    tags: [
+      { name: "Prototype", color: designThinkingMethod },
       { name: "Sketches, ", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "wireframes, ",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Wireframes",
+    image: "",
 
     tags: [
-      { name: "Empathize", color: designThinkingMethod },
-      { name: "wireframes, ", color: TypeOfDelivary },
+      { name: "Prototype", color: designThinkingMethod },
+      { name: "Wireframes", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "mock-ups",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Mock-ups",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
-      { name: "mock-ups", color: TypeOfDelivary },
+      { name: "Prototype", color: designThinkingMethod },
+      { name: "Mock-ups", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "prototypes",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Prototypes",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
-      { name: "prototypes", color: TypeOfDelivary },
+      { name: "Prototype", color: designThinkingMethod },
+      { name: "Prototype", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
     delivearlablename: "Web flow",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "Ideate", color: designThinkingMethod },
       { name: "Web flow", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "coded the AI image generation",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Coded the AI image generation",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
-      { name: "code", color: TypeOfDelivary },
+      { name: "Ideate", color: designThinkingMethod },
+      { name: "Code", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Software design and realisation",
-    delivearlablename: "createdd the front end code",
-    image: "/src/assets/carrent.png",
-
-    tags: [
-      { name: "Empathize", color: designThinkingMethod },
-      { name: "code", color: TypeOfDelivary },
-      { name: "Journalist platform project", color: projectCatogrie },
-    ],
-  },
-
-  {
-    position: "Future-oriented organisation",
-    delivearlablename: "Project plan",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Front-end Code",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
+      { name: "Code", color: TypeOfDelivary },
+      { name: "Journalist platform project", color: projectCatogrie },
+    ],
+  },
+  //portfolio
+  {
+    position: "Future-oriented organisation",
+    delivearlablename: "Project Plan",
+    image: "",
+    tags: [
+      { name: "Define", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Future-oriented organisation",
-    delivearlablename: "React courses",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "React Courses",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
-      { name: "Course", color: TypeOfDelivary },
+      { name: "", color: designThinkingMethod },
+      { name: "Courses", color: TypeOfDelivary },
+      { name: "Portfolio", color: projectCatogrie },
+    ],
+  },
+  {
+    position: "Future-oriented organisation",
+    delivearlablename: "Coding Document for Courses",
+    image: "",
+
+    tags: [
+      { name: "", color: designThinkingMethod },
+      { name: "Document", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Future-oriented organisation",
     delivearlablename: "Expert interview",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Empathize", color: designThinkingMethod },
       { name: "Feedback", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
+  //Journalist platfrom
   {
     position: "Future-oriented organisation",
-    delivearlablename: "Project plan",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Project Plan",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
@@ -524,7 +636,7 @@ export const LAprojects = [
   {
     position: "Future-oriented organisation",
     delivearlablename: "Daily Standups",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
@@ -534,30 +646,31 @@ export const LAprojects = [
   },
   {
     position: "Future-oriented organisation",
-    delivearlablename: "Scheduled meeting with the software team ",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Scheduled Meeting with Software Team ",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Schedule", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
+  //portfolio
   {
     position: "Investigative problem solving",
     delivearlablename: "Project plan",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Empathize", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Challenges faced when creating a portfolio",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Challenges Faced by Programmers",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
@@ -567,30 +680,30 @@ export const LAprojects = [
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Different type of contents in a portfolio",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Different Type of Contents",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Literature Study", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Coding document",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Coding Document for Courses",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Usability Testing of 3 different websites",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Usability Testing of 3 Different Websites",
+    image: "",
 
     tags: [
       { name: "Test", color: designThinkingMethod },
@@ -600,19 +713,8 @@ export const LAprojects = [
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Results of Usability Testing",
-    image: "/src/assets/carrent.png",
-
-    tags: [
-      { name: "Empathize", color: designThinkingMethod },
-      { name: "Document", color: TypeOfDelivary },
-      { name: "Portfolio", color: projectCatogrie },
-    ],
-  },
-  {
-    position: "Investigative problem solving",
-    delivearlablename: "Website contribution to personal brand",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Website Contribution to Personal Brand",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
@@ -622,8 +724,8 @@ export const LAprojects = [
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "How to test the website",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Best Testing Method",
+    image: "",
 
     tags: [
       { name: "Ideate", color: designThinkingMethod },
@@ -631,13 +733,14 @@ export const LAprojects = [
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
+  //Journalist platfrom
   {
     position: "Investigative problem solving",
     delivearlablename: "Project plan",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "Define", color: designThinkingMethod },
       { name: "Document", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
@@ -645,7 +748,7 @@ export const LAprojects = [
   {
     position: "Investigative problem solving",
     delivearlablename: " User Stories",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Empathize", color: designThinkingMethod },
@@ -656,7 +759,7 @@ export const LAprojects = [
   {
     position: "Investigative problem solving",
     delivearlablename: "Results of Usability Test",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Define", color: designThinkingMethod },
@@ -666,30 +769,31 @@ export const LAprojects = [
   },
   {
     position: "Investigative problem solving",
-    delivearlablename: "Presentation for the stakeholders on each sprint",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Presentation for the Stakeholders on Each Sprint",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Presantion", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
+  //portfolio
   {
     position: "Personal leadership",
-    delivearlablename: "Feedback from teachers and peers",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Feedback from teachers and Peers",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
-      { name: NaN, color: TypeOfDelivary },
+      { name: "", color: designThinkingMethod },
+      { name: "Feedback", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
   {
     position: "Personal leadership",
     delivearlablename: "Trello board",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Empathize", color: designThinkingMethod },
@@ -697,36 +801,37 @@ export const LAprojects = [
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
-
+  //Journalist platfrom
   {
     position: "Personal leadership",
     delivearlablename: "Retrospective and Peer feedback",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Retrospective", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
   {
     position: "Personal leadership",
-    delivearlablename: "Weekly and daily plans",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Weekly and Daily Plans",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Schedula", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
   },
+  //Internship
   {
     position: "Personal leadership",
     delivearlablename: "Updated the CV and Cover Latter",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Empathize", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "CV and Cover Letter", color: TypeOfDelivary },
       { name: "Internship", color: projectCatogrie },
     ],
@@ -734,33 +839,33 @@ export const LAprojects = [
   {
     position: "Personal leadership",
     delivearlablename:
-      "Applied to internships throughout LinkedIn and Fontys portal",
-    image: "/src/assets/carrent.png",
+      "Applied to internships throughout LinkedIn and Fontys Portal",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
-      { name: NaN, color: TypeOfDelivary },
+      { name: "", color: designThinkingMethod },
+      { name: "Applying", color: TypeOfDelivary },
       { name: "Internship", color: projectCatogrie },
     ],
   },
   {
     position: "Personal leadership",
-    delivearlablename: "Meet with student plus\u201d How to apply successfully",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Meet with Student Plus About How to apply Successfully",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Workshop", color: TypeOfDelivary },
       { name: "Internship", color: projectCatogrie },
     ],
   },
   {
     position: "Personal leadership",
-    delivearlablename: "Meet with student plus\u201d Interview practice",
-    image: "/src/assets/carrent.png",
+    delivearlablename: "Meet with Student Plus for Interview practice",
+    image: "",
 
     tags: [
-      { name: "Prototype", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Interview Practice", color: TypeOfDelivary },
       { name: "Internship", color: projectCatogrie },
     ],
@@ -768,21 +873,22 @@ export const LAprojects = [
   {
     position: "Personal leadership",
     delivearlablename: "Joined Career Day on the 16 November",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Carrer Day", color: TypeOfDelivary },
       { name: "Internship", color: projectCatogrie },
     ],
   },
+  //Weyweyweb
   {
     position: "Personal leadership",
     delivearlablename: "HTML segments workshop",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Workshop", color: TypeOfDelivary },
       { name: "WeyWeyWeb Malaga", color: projectCatogrie },
     ],
@@ -790,33 +896,35 @@ export const LAprojects = [
   {
     position: "Personal leadership",
     delivearlablename: "Other courses like 3D and LSH",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Weyweyweb", color: TypeOfDelivary },
       { name: "WeyWeyWeb Malaga", color: projectCatogrie },
     ],
   },
+  //workshops
   {
     position: "Personal leadership",
     delivearlablename:
       "Attended different courses done by teachers over the semester",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
-      { name: NaN, color: TypeOfDelivary },
+      { name: "", color: designThinkingMethod },
+      { name: "", color: TypeOfDelivary },
       { name: "Workshops", color: projectCatogrie },
     ],
   },
+  //portfolio
   {
     position: "Goal-oriented interaction",
     delivearlablename: "Feedback from teachers and peers",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Feedback", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
@@ -824,21 +932,22 @@ export const LAprojects = [
   {
     position: "Goal-oriented interaction",
     delivearlablename: "Feed pulse in Canvas",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Feedpulse", color: TypeOfDelivary },
       { name: "Portfolio", color: projectCatogrie },
     ],
   },
+  //Journalist platfrom
   {
     position: "Goal-oriented interaction",
     delivearlablename: "Retrospective and Peer feedback",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
-      { name: "Test", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Retrospective ", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
@@ -846,7 +955,7 @@ export const LAprojects = [
   {
     position: "Goal-oriented interaction",
     delivearlablename: "Poster",
-    image: "/src/assets/carrent.png",
+    image: "",
 
     tags: [
       { name: "Empathize", color: designThinkingMethod },
@@ -857,11 +966,11 @@ export const LAprojects = [
   {
     position: "Goal-oriented interaction",
     delivearlablename:
-      "Meet with the software team\u201d share thought of the project",
-    image: "/src/assets/carrent.png",
+      "Meet with the Software Team to Share Thought of the Project",
+    image: "",
 
     tags: [
-      { name: "Define", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Meeting", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
@@ -869,11 +978,11 @@ export const LAprojects = [
   {
     position: "Goal-oriented interaction",
     delivearlablename:
-      "Meet with the software team\u201d Share progress and ideas",
-    image: "/src/assets/carrent.png",
+      "Meet with the Software Team to Share Progress and Ideas",
+    image: "",
 
     tags: [
-      { name: "Ideate", color: designThinkingMethod },
+      { name: "", color: designThinkingMethod },
       { name: "Meeting", color: TypeOfDelivary },
       { name: "Journalist platform project", color: projectCatogrie },
     ],
