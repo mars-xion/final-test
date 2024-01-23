@@ -27,11 +27,11 @@ import {
 } from "../assets";
 
 export const navLinks = [
-  {
-    id: "projects",
-    title: "Projects",
-    path: "/projects",
-  },
+  // {
+  //   id: "projects",
+  //   title: "Projects",
+  //   path: "/projects",
+  // },
   {
     id: "LO",
     title: "All LO",
