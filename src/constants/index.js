@@ -186,7 +186,7 @@ const LAData = {
         position: "All Projects",
         period: "Oct 2018 - present",
         details: [
-          "",
+          "You can see all the Learning Outcomes here",
           "",
         ],
       },
