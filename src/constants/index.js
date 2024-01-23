@@ -35,7 +35,7 @@ export const navLinks = [
   {
     id: "LO",
     title: "All LO",
-    path: "./lOAll",
+    path: "/lOAll",
   },
   {
     title: "Portfolio",
