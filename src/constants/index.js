@@ -28,39 +28,30 @@ import {
 
 export const navLinks = [
   {
+    id: "about",
+    title: "About",
+    path: ".#about",
+  },
+  {
+    id: "testimonials",
+    title: "Testimonials",
+    path: ".#testimonials",
+  },
+  {
     id: "projects",
     title: "Projects",
     path: "/projects",
   },
+
+  {
+    id: "contact",
+    title: "Contact",
+    path: ".#contact",
+  },
   {
     id: "LO",
     title: "All LO",
-    path: "/lOAll",
-  },
-  {
-    title: "Portfolio",
-    path: "/Portfolio",
-    id: "Portfolio",
-  },
-  {
-    title: "GroupProject",
-    path: "/Group",
-    id: "group",
-  },
-  {
-    title: "Out of Space",
-    path: "/OutOfSpace",
-    id: "outofSpace",
-  },
-  {
-    title: "Dutch Design Week",
-    path: "/DutchDesignWeek",
-    id: "dutchdesignWeek",
-  },
-  {
-    title: "Malaga",
-    path: "/Weyweyweb",
-    id: "weyweyweb",
+    path: "./lOAll",
   },
 ];
 
@@ -154,27 +145,27 @@ const divisions = [
   {
     title: "Portfolio",
     icon: portfolio,
-    id: "./portfolio",
+    id: "Portfolio",
   },
   {
     title: "GroupProject",
     icon: bndestem,
-    id: "./group",
+    id: "group",
   },
   {
     title: "Out of Space",
     icon: outofspace,
-    id: "./outOfSpace",
+    id: "outofSpace",
   },
   {
     title: "Dutch Design Week",
     icon: ddwimage,
-    id: "./dutchDesignWeek",
+    id: "dutchdesignWeek",
   },
   {
     title: "Malaga",
     icon: weyweywebimage,
-    id: "./weyweyweb",
+    id: "weyweyweb",
   },
 ];
 
@@ -186,14 +177,14 @@ const LAData = {
         position: "All Projects",
         period: "Oct 2018 - present",
         details: [
-          "You can see all the Learning Outcomes here",
-          "",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dignissim fringilla dui ac mattis.",
+          "Donec in sodales eros. Nulla fermentum, ante in venenatis pellentesque, justo odio viverra lorem, varius posuere erat tortor et magna.",
         ],
       },
     },
     {
       expData: {
-        title: "LAO1",
+        title: "LA1",
         position: "User interaction @analysis @advice",
         period: "Oct 2016 - May 2018",
         details: [
@@ -204,7 +195,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO2",
+        title: "LA2",
         position: "User interaction @execution @validation)",
         period: "Oct 2018 - present",
         details: [
@@ -215,7 +206,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO3",
+        title: "LA3",
         position: "Software design and realisation",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -225,7 +216,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO4",
+        title: "LA4",
         position: "Future-oriented organisation",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -235,7 +226,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO5",
+        title: "LA5",
         position: "Investigative problem solving",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -246,7 +237,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO6",
+        title: "LA6",
         position: "Personal leadership",
         period: "Mar 2016 - Oct 2016",
         details: [
@@ -256,7 +247,7 @@ const LAData = {
     },
     {
       expData: {
-        title: "LO7",
+        title: "LA7",
         position: "Goal-oriented interaction",
         period: "Mar 2016 - Oct 2016",
         details: [
