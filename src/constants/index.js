@@ -154,27 +154,27 @@ const divisions = [
   {
     title: "Portfolio",
     icon: portfolio,
-    id: "/portfolio",
+    id: "./portfolio",
   },
   {
     title: "GroupProject",
     icon: bndestem,
-    id: "/group",
+    id: "./group",
   },
   {
     title: "Out of Space",
     icon: outofspace,
-    id: "/outOfSpace",
+    id: "./outOfSpace",
   },
   {
     title: "Dutch Design Week",
     icon: ddwimage,
-    id: "/dutchDesignWeek",
+    id: "./dutchDesignWeek",
   },
   {
     title: "Malaga",
     icon: weyweywebimage,
-    id: "/weyweyweb",
+    id: "./weyweyweb",
   },
 ];
 
