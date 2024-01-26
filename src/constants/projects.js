@@ -27,9 +27,9 @@ export const kelt9bData = {
   images: ["/projects/outofspace/image-keltins.jpeg"],
   video: "/projects/outofspace/VIDEO-2024-01-07-18-39-06.mp4",
   additionalVideo:
-    "../../public/projects/outofspace/VIDEO-2024-01-07-18-42-18.mp4",
-  fullDocumentLink: "../../public/projects/outofspace/Kelt 9B.pdf",
-  storyDocument: "../../public/projects/outofspace/Kelt 9B.docx",
+    "/public/projects/outofspace/VIDEO-2024-01-07-18-42-18.mp4",
+  fullDocumentLink: "/projects/outofspace/Kelt 9B.pdf",
+  storyDocument: "/public/projects/outofspace/Kelt 9B.docx",
 };
 
 export const dutchDesignWeekData = {
@@ -45,7 +45,7 @@ export const dutchDesignWeekData = {
       title: "Narrative of the Week",
       description:
         "The week began with meeting the students and receiving wristbands for access to all exhibitions and shows. The theme focused on 'Product and Craft Design', exploring the city and the DDW.",
-      image: "/public/projects/ddw/WhatsApp Image 2024-01-07 at 19.33.46.jpeg",
+      image: "/projects/ddw/WhatsApp Image 2024-01-07 at 19.33.46.jpeg",
     },
     {
       title: "The Assignment",
@@ -57,7 +57,7 @@ export const dutchDesignWeekData = {
       title: "Summary of Day 1 and Day 2",
       description:
         "Day 1 involved exploring various exhibits and engaging with art and technology at Fontys TQ and Strijps, with highlights like salad glass spoons, 3D printed items, and environment-tech displays. Day 2 focused on centralized exhibits in Eindhoven, including interactive displays using VR and AI at the Piazza.",
-      images: ["/public/projects/ddw/q.jpeg", "/public/projects/ddw/vi.jpeg"],
+      images: ["/projects/ddw/q.jpeg", "/public/projects/ddw/vi.jpeg"],
     },
     {
       title: "Video Making",
@@ -79,13 +79,13 @@ export const dutchDesignWeekData = {
     university: "Fontys University of Applied Science",
     theme: "Product and Craft Design",
   },
-  fullDocumentLink: "../../public/projects/ddw/Dutch Design Week.pdf",
+  fullDocumentLink: "/projects/ddw/Dutch Design Week.pdf",
   videoLinks: [
-    "/public/projects/ddw/sdf.mp4",
-    "/public/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15 (1).mp4",
-    "/public/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.21.mp4",
-    "/public/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15 (2).mp4",
-    "/public/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15.mp4",
+    "/projects/ddw/sdf.mp4",
+    "/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15 (1).mp4",
+    "/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.21.mp4",
+    "/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15 (2).mp4",
+    "/projects/ddw/WhatsApp Video 2024-01-07 at 19.35.15.mp4",
   ],
 };
 
@@ -218,13 +218,13 @@ export const weyweywebData = {
   ],
   images: [
     {
-      src: "/public/projects/malaga/images.png",
+      src: "/projects/malaga/images.png",
       alt: "Image 1",
     },
     {
-      src: "/public/projects/malaga/1.PNG",
+      src: "/projects/malaga/1.PNG",
       alt: "Image 2",
     },
   ],
-  fullDocumentLink: "../../public/projects/malaga/Weyweyweb.pdf",
+  fullDocumentLink: "/projects/malaga/Weyweyweb.pdf",
 };
