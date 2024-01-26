@@ -63,7 +63,7 @@ export const dutchDesignWeekData = {
       title: "Video Making",
       description:
         "The video project encapsulated the week's experiences but faced challenges due to time constraints and unclear objectives, leading to a video that lacked some intended content.",
-      video: "path/to/final_project_video.mp4",
+      video: "/projects/ddw/final_project_video.mp4",
     },
     {
       title: "Reflection",
