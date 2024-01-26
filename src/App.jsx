@@ -26,16 +26,16 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
-            <Route path="./Portfolio" element={<Portfolio />} />
-            <Route path="./outofspace" element={<OutOfSpace />} />
-            <Route path="./dutchdesignWeek" element={<DutchDesignWeek />} />
-            <Route path="./weyweyweb" element={<Weyweyweb />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/outofspace" element={<OutOfSpace />} />
+            <Route path="/dutchdesignWeek" element={<DutchDesignWeek />} />
+            <Route path="/weyweyweb" element={<Weyweyweb />} />
             <Route
               path="/learning-outcome-detail"
               element={<LearningOutcomeDetail />}
             />
-            <Route path="./lOAll" element={<LOAll />} />
-            <Route path="./group" element={<Group />} />
+            <Route path="/lOAll" element={<LOAll />} />
+            <Route path="/group" element={<Group />} />
           </Routes>
         </div>
       </div>
