@@ -21,7 +21,7 @@ const imageGroup = {
 };
 
 const videoPrototypeLast =
-  "/projects/group/videopresention4/videoPrototypeLast.MP4";
+  "/projects/group/videoPrototypeLast.MP4";
 
 const LinkDoc = {
   LSJRV:
