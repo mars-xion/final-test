@@ -5,7 +5,7 @@ import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 
 const OutOfSpace = () => {
-  const headerImageUrl = "/public/projects/outofspace/image-spaceship.jpeg";
+  const headerImageUrl = "/projects/outofspace/image-spaceship.jpeg";
 
   return (
     <div className="pt-32 text-white min-h-screen">
