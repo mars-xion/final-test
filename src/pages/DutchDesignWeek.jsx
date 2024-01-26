@@ -7,7 +7,7 @@ import SectionWrapper from "../hoc/SectionWrapper";
 
 const DutchDesignWeek = () => {
   const { title, eventDetails, sections, videoLinks } = dutchDesignWeekData;
-  const headerImageUrl = "/public/projects/ddw/123123.jpeg";
+  const headerImageUrl = "projects/ddw/123123.jpeg";
 
   const videoSliderSettings = {
     dots: true,
