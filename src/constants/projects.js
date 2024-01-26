@@ -27,9 +27,9 @@ export const kelt9bData = {
   images: ["/projects/outofspace/image-keltins.jpeg"],
   video: "/projects/outofspace/VIDEO-2024-01-07-18-39-06.mp4",
   additionalVideo:
-    "/public/projects/outofspace/VIDEO-2024-01-07-18-42-18.mp4",
+    "/projects/outofspace/VIDEO-2024-01-07-18-42-18.mp4",
   fullDocumentLink: "/projects/outofspace/Kelt 9B.pdf",
-  storyDocument: "/public/projects/outofspace/Kelt 9B.docx",
+  storyDocument: "/projects/outofspace/Kelt 9B.docx",
 };
 
 export const dutchDesignWeekData = {
