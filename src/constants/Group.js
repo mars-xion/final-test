@@ -1,38 +1,38 @@
 const imageGroup = {
-  Brainstorming: "/public/projects/group/images/brainstorming1.png",
-  Poster: "/public/projects/group/images/DATA JOURNLISSM.png",
-  CardSorting: "/public/projects/group/images/brainstoming.png",
-  platform: "/public/projects/group/images/platform.png",
-  MosCow: "/public/projects/group/images/MosCow table.png",
-  sketch1: "/public/projects/group/designs/sketch1.png",
-  wfUploadData: "/public/projects/group/designs/Upload Data.png",
-  wfSelectData: "/public/projects/group/designs/select Data.png",
-  wfNewProject: "/public/projects/group/designs/New Project.png",
-  wfWrokspace: "/public/projects/group/designs/Workspace - sample.png",
-  wfWEdit: "/public/projects/group/designs/Workspace - Edit.png",
-  wcoReflection: "/public/projects/group/designs/Wireframe_dataDash.png",
-  prsona: "/public/projects/group/images/Persona.png",
-  wfgreen: "/public/projects/group/designs/Worspace-wireframe-green.png",
-  sketch2: "/public/projects/group/images/sketchflow.jpeg",
-  mokupone: "/public/projects/group/designs/Help.png",
-  iterations: "/public/projects/group/images/iterations.PNG",
+  Brainstorming: "/projects/group/images/brainstorming1.png",
+  Poster: "/projects/group/images/DATA JOURNLISSM.png",
+  CardSorting: "/projects/group/images/brainstoming.png",
+  platform: "/projects/group/images/platform.png",
+  MosCow: "/projects/group/images/MosCow table.png",
+  sketch1: "/projects/group/designs/sketch1.png",
+  wfUploadData: "/projects/group/designs/Upload Data.png",
+  wfSelectData: "/projects/group/designs/select Data.png",
+  wfNewProject: "/projects/group/designs/New Project.png",
+  wfWrokspace: "/projects/group/designs/Workspace - sample.png",
+  wfWEdit: "/projects/group/designs/Workspace - Edit.png",
+  wcoReflection: "/projects/group/designs/Wireframe_dataDash.png",
+  prsona: "/projects/group/images/Persona.png",
+  wfgreen: "/projects/group/designs/Worspace-wireframe-green.png",
+  sketch2: "/projects/group/images/sketchflow.jpeg",
+  mokupone: "/projects/group/designs/Help.png",
+  iterations: "/projects/group/images/iterations.PNG",
   prototype:
-    "/public/projects/group/designs/WorkSpace, moved down fact check.png",
+    "/projects/group/designs/WorkSpace, moved down fact check.png",
 };
 
 const videoPrototypeLast =
-  "/public/projects/group/videopresention4/videoPrototypeLast.MP4";
+  "/projects/group/videopresention4/videoPrototypeLast.MP4";
 
 const LinkDoc = {
   LSJRV:
-    "/public/projects/group/doc/The Journalist's Role, Values, Types, and Challenges in Modern Reporting.pdf",
-  UTRF: "/public/projects/group/doc/UsabilityTestReport-Fabian.pdf",
-  UTRZ: "/public/projects/group/doc/UsabilityTestReport-Zahra.pdf",
-  UR: "/public/projects/group/doc/UserRequiermints.pdf",
-  WE: "/public/projects/group/doc/WorkspaceE.pdf",
-  P: "/public/projects/group/doc/Persona.pdf",
-  MCET: "/public/projects/group/doc/Meeting with Chief Editor 12 October.pdf",
-  BJF: "/public/projects/group/doc/Brainstorm Journalism Figma.pdf",
+    "/projects/group/doc/The Journalist's Role, Values, Types, and Challenges in Modern Reporting.pdf",
+  UTRF: "/projects/group/doc/UsabilityTestReport-Fabian.pdf",
+  UTRZ: "/projects/group/doc/UsabilityTestReport-Zahra.pdf",
+  UR: "/projects/group/doc/UserRequiermints.pdf",
+  WE: "/projects/group/doc/WorkspaceE.pdf",
+  P: "/projects/group/doc/Persona.pdf",
+  MCET: "/projects/group/doc/Meeting with Chief Editor 12 October.pdf",
+  BJF: "/projects/group/doc/Brainstorm Journalism Figma.pdf",
 };
 
 export const groupprojectData = {
