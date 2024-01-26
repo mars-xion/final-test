@@ -24,8 +24,8 @@ export const kelt9bData = {
     "A video prototype was created, showcasing the department's concept, although it didn't win, it was a valuable experience.",
   reflection:
     "Personal reflections highlight the uniqueness of the event and the learning experiences it offered.",
-  images: ["../../public/projects/outofspace/image-keltins.jpeg"],
-  video: "../../public/projects/outofspace/VIDEO-2024-01-07-18-39-06.mp4",
+  images: ["/projects/outofspace/image-keltins.jpeg"],
+  video: "/projects/outofspace/VIDEO-2024-01-07-18-39-06.mp4",
   additionalVideo:
     "../../public/projects/outofspace/VIDEO-2024-01-07-18-42-18.mp4",
   fullDocumentLink: "../../public/projects/outofspace/Kelt 9B.pdf",
