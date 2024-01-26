@@ -8,25 +8,25 @@ export const documentslinksPortfolio = {
   WebsiteSelection:
     "/projects/port/doc/more/WebsiteSelectionProcess.pdf",
   LiteratureStudyTesting:
-    "/public/projects/port/doc/userFrienldy/LITERATURESTUDY.pdf",
-  SketchingSub3: "/public/projects/port/doc/StructerAndLayout/SKETCHING.pdf",
-  PrototypeSub3: "/public/projects/port/doc/StructerAndLayout/PROTOTYPE.pdf",
-  C4Model: "/public/projects/port/doc/StructerAndLayout/C4 MODEL.pdf",
+    "/projects/port/doc/userFrienldy/LITERATURESTUDY.pdf",
+  SketchingSub3: "/projects/port/doc/StructerAndLayout/SKETCHING.pdf",
+  PrototypeSub3: "/projects/port/doc/StructerAndLayout/PROTOTYPE.pdf",
+  C4Model: "/projects/port/doc/StructerAndLayout/C4 MODEL.pdf",
   C4ModelMaking:
-    "/public/projects/port/doc/StructerAndLayout/C4model/C4model.pdf",
+    "/projects/port/doc/StructerAndLayout/C4model/C4model.pdf",
   C4ModelCode:
-    "/public/projects/port/doc/StructerAndLayout/C4model/CodesofC4model.pdf",
+    "/projects/port/doc/StructerAndLayout/C4model/CodesofC4model.pdf",
   SPDocument:
-    "/public/projects/port/doc/StructerAndLayout/SKETCHINGANDPROTOTYPE.pdf",
+    "/projects/port/doc/StructerAndLayout/SKETCHINGANDPROTOTYPE.pdf",
 };
 
 export const imagesOfPortfolio = {
-  PastelColor1: "/public/projects/port/imagesOfV6/Pc1.png",
+  PastelColor1: "/projects/port/imagesOfV6/Pc1.png",
   PastelColor2: "/public/projects/port/imagesOfV6/Pc2.png",
-  Layering1: "/public/projects/port/imagesOfV6/l1.png",
-  Layering2: "/public/projects/port/imagesOfV6/l2.png",
-  DragInteraction1: "/public/projects/port/imagesOfV6/di1.png",
-  DragInteraction2: "/public/projects/port/imagesOfV6/di2.png",
+  Layering1: "/projects/port/imagesOfV6/l1.png",
+  Layering2: "/projects/port/imagesOfV6/l2.png",
+  DragInteraction1: "/projects/port/imagesOfV6/di1.png",
+  DragInteraction2: "/projects/port/imagesOfV6/di2.png",
   ScrollingEffects1: "/public/projects/port/imagesOfV6/se1.png",
   ScrollingEffects2: "/public/projects/port/imagesOfV6/se2.png",
   ScrapbookAesthetic1: "/public/projects/port/imagesOfV6/sa1.png",
