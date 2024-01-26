@@ -1,12 +1,12 @@
 export const documentslinksPortfolio = {
-  LiteratureStudyTrends: "/public/projects/port/doc/trends/LITERATURESTUDY.pdf",
-  TrendAnalysisTrends: "/public/projects/port/doc/trends/TRENDANALYSIS.pdf",
+  LiteratureStudyTrends: "/projects/port/doc/trends/LITERATURESTUDY.pdf",
+  TrendAnalysisTrends: "/projects/port/doc/trends/TRENDANALYSIS.pdf",
   DesignPatternSearchTrends:
-    "/public/projects/port/doc/trends/DESIGNPATTERNSEARCH.pdf",
+    "/projects/port/doc/trends/DESIGNPATTERNSEARCH.pdf",
   UsabilityTestingUserFriendly:
-    "/public/projects/port/doc/userFrienldy/USABILITYTESTING.pdf",
+    "/projects/port/doc/userFrienldy/USABILITYTESTING.pdf",
   WebsiteSelection:
-    "/public/projects/port/doc/more/WebsiteSelectionProcess.pdf",
+    "/projects/port/doc/more/WebsiteSelectionProcess.pdf",
   LiteratureStudyTesting:
     "/public/projects/port/doc/userFrienldy/LITERATURESTUDY.pdf",
   SketchingSub3: "/public/projects/port/doc/StructerAndLayout/SKETCHING.pdf",
