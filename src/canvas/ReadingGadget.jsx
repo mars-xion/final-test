@@ -3,7 +3,7 @@ import { useFrame } from "@react-three/fiber";
 import { useGLTF } from "@react-three/drei";
 
 const ReadingGadget = ({ isMobile }) => {
-  const urlforgltf = "../../public/full-screen/scene.gltf";
+  const urlforgltf = "/full-screen/scene.gltf";
   const gadget = useGLTF(urlforgltf); //cgadget //full-screen
 
   // const rotationSpeed = 0.001;
