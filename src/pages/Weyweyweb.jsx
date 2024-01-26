@@ -4,7 +4,7 @@ import { weyweywebData } from "../constants/projects";
 import CodePenEmbed from "../sections/CodePenEmbed";
 
 const Weyweyweb = () => {
-  const headerImageUrl = "/public/projects/malaga/malaga.jpeg";
+  const headerImageUrl = "/projects/malaga/malaga.jpeg";
 
   return (
     <div className="pt-32 text-white min-h-screen">
