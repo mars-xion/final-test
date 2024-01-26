@@ -1,5 +1,5 @@
 const imageGroup = {
-  Brainstorming: "/projects/group/images/brainstorming1.png",
+  Brainstorming: "/projects/group/images/brainstorming.png",
   Poster: "/projects/group/images/DATA JOURNLISSM.png",
   CardSorting: "/projects/group/images/brainstoming.png",
   platform: "/projects/group/images/platform.png",
